@@ -29,6 +29,6 @@ To design an interactive Excel dashboard that allows stakeholders to monitor key
 
 ## 📁 How to Use
 
-1. Open the Excel file: `coffee_sales_dashboard.xlsx`
+1. Open the Excel file: "Coffee Beans Sales Dashboard.xlsx"
 2. Use slicers to filter the data by **Year**, **Country**
 3. View the dashboard to gain insights from the visualizations
